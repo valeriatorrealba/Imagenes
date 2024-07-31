@@ -1,6 +1,7 @@
 # Proyecto Imágenes
 
-Este proyecto muestra una página que presenta varias imágenes organizadas en bloques de colores. La página está estructurada con HTML y estilizada con CSS.
+Este proyecto muestra una página que presenta varias imágenes organizadas en bloques de colores. La página está estructurada con HTML y 
+estilizada con CSS.
 
 ## Vista del Diseño
 
