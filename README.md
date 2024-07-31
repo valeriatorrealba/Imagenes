@@ -2,7 +2,7 @@
 
 Este proyecto muestra una página que presenta varias imágenes organizadas en bloques de colores. La página está estructurada con HTML y estilizada con CSS.
 
-## Vista del Modelo
+## Vista del Diseño
 
 Aquí puedes ver la imagen del modelo que se utilizó como referencia:
 
