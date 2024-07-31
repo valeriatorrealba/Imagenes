@@ -28,3 +28,7 @@ El proyecto se compone de las siguientes secciones:
 ## Tecnologías Utilizadas
 - HTML5: Para la estructura del contenido.
 - CSS3: Para el diseño y estilos de la página.
+
+## Autor
+
+Este proyecto fue desarrollado por **Valeria Torrealba**.
